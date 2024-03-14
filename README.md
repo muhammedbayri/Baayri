@@ -28,6 +28,6 @@
 </div>
 
 ## 🔥 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Baayri&theme=github_dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedbayri&theme=github_dark&show_icons=true)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baayri&theme=github_dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedbayri&theme=github_dark&layout=compact)
