@@ -1,5 +1,4 @@
 # Hi 👋, I'm Muhammed
-* I'm a computer engineering student at FIRAT UNIVERSITY
 * I'm interested in web development
 
 ## 🛠 Tech Stack
